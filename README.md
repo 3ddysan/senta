@@ -1,28 +1,23 @@
-# Nuxt 3 Minimal Starter
+# Senta
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+tbd
 
 ## Setup
 
-Make sure to install the dependencies:
+Make sure to install dependencies:
 
 ```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
 # pnpm
 pnpm install
 ```
 
 ## Development Server
 
-Start the development server on http://localhost:3000
+Start the development server on `http://localhost:3000`:
 
 ```bash
-npm run dev
+# pnpm
+pnpm dev
 ```
 
 ## Production
@@ -30,13 +25,6 @@ npm run dev
 Build the application for production:
 
 ```bash
-npm run build
+# pnpm
+pnpm build
 ```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
